@@ -1,2 +1,19 @@
-# Pomodoro-app-reactNative-expo
-Mobile app built with React Native that helps users manage tasks using the Pomodoro technique. Practice navigation using tabs and stac
+# Pomodoro App
+
+## Descripción
+Aplicación móvil desarrollada con React Native que permite gestionar el tiempo usando la técnica Pomodoro.
+
+## Tecnologías
+- React Native
+- Expo
+- JavaScript
+- TipeScript
+
+## Capturas
+...
+
+## Instalación
+
+```bash
+npm install
+npx expo start
